@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-hub
+sounddevice
+numpy
+scipy
+setuptools<81
+matplotlib   # optional: only for the confusion-matrix picture from evaluate.py
